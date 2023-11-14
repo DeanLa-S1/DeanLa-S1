@@ -1,4 +1,6 @@
-### Hi there 👋
+![Banner](https://media.licdn.com/dms/image/C4D16AQEtzuJXIFAC5g/profile-displaybackgroundimage-shrink_200_800/0/1627458971221?e=2147483647&v=beta&t=hDB76cV4YR3KulQ93jQ1guSM_wUrG4l5jWJp4GPSmzg)
+# Dean Langsam - Data Scientist
+
 
 <!--
 **DeanLa-S1/DeanLa-S1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
